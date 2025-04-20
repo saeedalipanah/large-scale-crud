@@ -25,7 +25,7 @@
           </BaseButton>
           <BaseButton
             v-if="selectedRange.start || selectedRange.end"
-            class="-ms-14"
+            class="-ms-14 text-gray-600 hover:text-foreground"
             variant="text"
             @click.capture="clearDates"
           >

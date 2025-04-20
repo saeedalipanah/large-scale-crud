@@ -21,7 +21,7 @@
       <BaseButton
         v-if="localValue"
         @click="clearSelection"
-        class="absolute right-6 top-1/2 -translate-y-1/2 text-gray-600 hover:text-black"
+        class="absolute right-6 top-1/2 -translate-y-1/2 text-gray-600 hover:text-foreground"
         variant="text"
       >
         <X class="h-4 w-4" />
