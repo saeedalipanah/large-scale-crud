@@ -1,33 +1,20 @@
-# vue-pinia-shadcn
+عرض سلام و وقت بخیر، خسته نباشید
+تست تسکی مربوط به Senior frontend developer
 
-This template should help get you started developing with Vue 3 in Vite.
+تکنولوژی های استفاده شده:
+vue3js,json-server,pinia,shadcn,axios,vitest,esLint,typescript,tailwind
 
-## Recommended IDE Setup
+- این پروژه کاملا رسپانسیو است و سایز اسکرین های مختلف در آن هندل شده است
+- تم تاریک و روشن در آن هندل شده است.
+- امکان سرچ و فیلتر های مختلف بر اساس اطلاعات رکورد های جدول وجود دارد.
+- امکان سورت به صورت صعودی و نزولی برای همه ستون های جدول وجود دارد.
+- ستون سورت شده با تغییر رنگ از دیگر ستون ها تفکیک میشود.
+- ستون سورت شده بر اساس نزولی یا صعودی بودن مشخص میشود.(رنگ صعودی سبز و نزولی قرمز)
+- امکان افزودن ، ویرایش و حذف رکوردهای جدول وجود دارد.
+- صفحه بندی جدول هندل شده است.
+- تمامی موارد مانند تم انتخاب شده یا سورت و فیلتر و پیجینیت با رفرش شدن صفحه از بین نمیروند.(تم در لوکال استورج ذخیره شده و در دیگر صفحات نیز بازیابی میشود)
+- ساختار پروژه به گونه ای چیده شده است که کاملا مقیاس پذیر است و در صورت بزرگ شدن آن مشکلی پیش نیامده کاملا تمیز و مستقل میتوان بخش های مختلف را هندل کرد
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Type Support for `.vue` Imports in TS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+  بعد از دریافت پروژه و نصب وابستگی ها (npm install) با دستور npm run dev آن را اجرا کنید.
